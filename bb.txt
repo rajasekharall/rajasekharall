@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaa 
 i am bb
+=======
+bbbbb
+i am bbb
+aaaaaaaaaaaa
+>>>>>>> 2fc301e4b52f1f6e4261616f98a88808cae3a8c3
