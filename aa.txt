@@ -1,7 +1,3 @@
 aaaaa
 i amjfgkgkaaaa
-<<<<<<< HEAD
-please make sure to insert semicolumn at end of each statement and use conceptual coding
-=======
-
-
+please make sure to insert semicolumn at end of each statement use hard code 
